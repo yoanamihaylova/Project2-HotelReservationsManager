@@ -1,0 +1,55 @@
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{ ViewData["Title"] = "Reservations"; }
+
+<table class="table">
+    @model HotelReservationsManager.Controllers.Models.ReservationDashboardViewModel
+        <tr>
+            <th>
+                id
+            </th>
+            <th>
+                RoomNumber
+            </th>
+            <th>
+                Cost
+            </th>
+            <th>
+                Clients
+            </th>
+        </tr>
+        @foreach (var item in Model.Items)
+        {
+        <tr>
+            <td>
+                @item.id
+            </td>
+            <td>
+                @item.room.number
+            </td>
+            <td>
+                @item.cost
+            </td>
+            <td>
+                @string.Join("|", item.clients.Select(x => $"{x.client.firstName} {x.client.lastName}"))
+            </td>
+        </tr>
+        }
+    <ul class="pagination">
+        @for (var i = 1; i <= Model.Pager.PagesCount; i++)
+        {
+<li class="page-item @(i == Model.Pager.CurrentPage ? "active" : "")">
+    <a asp-route-Pager.CurrentPage="@i" class="page-link">@i</a>
+</li>}
+    </ul>
+</table>
+
+<br> </br>
+<input type="button" value="Go back to the Dashboard" onclick="location.href='@Url.Action("Dashboard", "Home")'" />

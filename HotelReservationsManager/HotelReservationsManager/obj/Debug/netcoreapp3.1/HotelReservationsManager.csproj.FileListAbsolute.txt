@@ -1,0 +1,267 @@
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.exe
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.deps.json
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.json
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csprojAssemblyReference.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.Manifest.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.xml
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelReservationsManager.styles.css
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.input.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.output.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorCoreGenerate.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.genruntimeconfig.cache
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CopyComplete
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\ManageUsers.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\CreateUser.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\EditUser.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\ManageRooms.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\CreateRoom.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\EditRoom.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\ManageClients.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\CreateClient.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\EditClient.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\GetClientReservations.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\MakeReservation1.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\MakeReservation2.cshtml.g.cs
+C:\Users\Stoyan\source\repos\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\SeeReservations.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.exe
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.deps.json
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.json
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csprojAssemblyReference.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.Manifest.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.xml
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\scopedcss\bundle\HotelReservationsManager.styles.css
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.input.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.output.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorCoreGenerate.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CopyComplete
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.dll
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.genruntimeconfig.cache
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateClient.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateRoom.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateUser.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditClient.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditRoom.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetClientReservations.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\MakeReservation1.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\MakeReservation2.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageClients.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageRooms.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageUsers.cshtml.g.cs
+C:\Users\Stoyan\Desktop\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeeReservations.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\appsettings.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.exe
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.deps.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.runtimeconfig.dev.json
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csprojAssemblyReference.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfoInputs.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.AssemblyInfo.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CoreCompileInputs.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.MvcApplicationPartsAssemblyInfo.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorAssemblyInfo.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.input.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.TagHelpers.output.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorCoreGenerate.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateClient.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateRoom.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateUser.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Dashboard.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditClient.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditRoom.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditUser.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetClientReservations.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\MakeReservation1.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\MakeReservation2.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageClients.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageRooms.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\ManageUsers.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeeReservations.cshtml.g.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.RazorTargetAssemblyInfo.cs
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.Views.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.csproj.CopyComplete
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.Manifest.cache
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\staticwebassets\HotelReservationsManager.StaticWebAssets.xml
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.dll
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.pdb
+D:\It Kariera\Module 13\HotelReservationsManager\HotelReservationsManager\obj\Debug\netcoreapp3.1\HotelReservationsManager.genruntimeconfig.cache

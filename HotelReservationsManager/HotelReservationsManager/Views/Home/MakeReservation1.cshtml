@@ -1,0 +1,31 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using HotelReservationsManager;
+@using HotelReservationsManager.Controllers;
+@using HotelReservationsManager.Controllers.Models;
+
+@model ReservationDashboardRegulatedViewModel
+
+<div class="row">
+    <div class="col-md-4" id="pedal">
+        <form asp-action="MakeReservation2" class="pedal">
+
+            <label>Number of clients</label>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input asp-for="clientsCnt" class="form-control" />
+                <span asp-validation-for="clientsCnt" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </div>
+</div>
+
+
+
+
+
+

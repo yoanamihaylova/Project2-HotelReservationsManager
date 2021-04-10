@@ -1,0 +1,92 @@
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+@{ ViewData["Title"] = "Rooms"; }
+
+<p>
+    <a asp-action="CreateClient" asp-controller="Home">Create New</a>
+</p>
+
+<form asp-action="ManageClients" asp-controller="Home">
+    <div class="form-group">
+        <label asp-for="firstNameFilter" class="control-label"></label>
+        <input asp-for="firstNameFilter" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="lasttNameFilter" class="control-label"></label>
+        <input asp-for="lasttNameFilter" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Apply filters" class="btn btn-primary" />
+    </div>
+</form>
+
+<table class="table">
+    @model HotelReservationsManager.Controllers.Models.ClientDashboardViewModel
+    <thead>
+        <tr>
+            <th>
+                id
+            </th>
+            <th>
+                FirstName
+            </th>
+            <th>
+                LastName
+            </th>
+            <th>
+                email
+            </th>
+            <th>
+                isAdult
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Items)
+        {
+        <tr>
+            <td>
+                @item.id
+            </td>
+            <td>
+                @item.firstName
+            </td>
+            <td>
+                @item.lastName
+            </td>
+            <td>
+                @item.email
+            </td>
+            <td>
+                @item.isAdult
+            </td>
+            @if (HotelReservationsManager.Controllers.HomeController.loggedUser.isAdmin == false) continue;
+            <td>
+                <a asp-action="EditClient" asp-controller="Home" asp-route-id="@item.id">Edit</a> |
+                <a asp-action="DeleteClient" asp-controller="Home" asp-route-id="@item.id">Delete</a> | 
+                <a asp-action="GetClientReservations" asp-controller="Home" asp-route-clientId="@item.id">See past reservations</a>
+            </td>
+
+        </tr>
+        }
+    </tbody>
+    <ul class="pagination">
+        @for (var i = 1; i <= Model.Pager.PagesCount; i++)
+        {
+            <li class="page-item @(i == Model.Pager.CurrentPage ? "active" : "")">
+                <a asp-route-Pager.CurrentPage="@i" class="page-link">@i</a>
+            </li>
+        }
+    </ul>
+</table>
+
+<br> </br>
+<input type="button" value="Go back to the Dashboard" onclick="location.href='@Url.Action("Dashboard", "Home")'" />

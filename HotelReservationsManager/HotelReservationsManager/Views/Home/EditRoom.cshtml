@@ -1,0 +1,47 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using HotelReservationsManager;
+@using HotelReservationsManager.Controllers;
+@using HotelReservationsManager.Controllers.Models;
+
+@model RoomDashboardRegulatedViewModel
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditRoom">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="capacity" class="control-label"></label>
+                <input asp-for="capacity" class="form-control" />
+                <span asp-validation-for="capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="type" class="control-label"></label>
+                <input asp-for="type" class="form-control" />
+                <span asp-validation-for="type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="priceAdult" class="control-label"></label>
+                <input asp-for="priceAdult" class="form-control" />
+                <span asp-validation-for="priceAdult" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="priceChild" class="control-label"></label>
+                <input asp-for="priceChild" class="form-control" />
+                <span asp-validation-for="priceChild" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="isFree" class="control-label"></label>
+                <input asp-for="isFree" class="form-control" />
+                <span asp-validation-for="isFree" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="number" class="control-label"></label>
+                <input asp-for="number" class="form-control" />
+                <span asp-validation-for="number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Edit" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+@model HotelReservationsManager.Controllers.Models.ClientReservationsDashboardViewModel
+
+<p> There are <b>@Model.Items.Count</b> matches for <b>@Model.client.firstName @Model.client.lastName </b> </p>
+
+<table class="table">
+    <tr>
+        <th>
+            id
+        </th>
+        <th>
+            RoomNumber
+        </th>
+        <th>
+            Username
+        </th>
+        <th>
+            allInclusive
+        </th>
+        <th>
+            breakfast
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>
+                @item.id
+            </td>
+            <td>
+                @item.room.number
+            </td>
+            <td>
+                @item.user.username
+            </td>
+            <td>
+                @item.allInclusive
+            </td>
+            <td>
+                @item.breakfast
+            </td>
+        </tr>
+    }
+    <ul class="pagination">
+        @for (var i = 1; i <= Model.Pager.PagesCount; i++)
+        {
+            <li class="page-item @(i == Model.Pager.CurrentPage ? "active" : "")">
+                <a asp-route-Pager.CurrentPage="@i" class="page-link">@i</a>
+            </li>
+        }
+    </ul>
+</table>
+
+<br> </br>
+<input type="button" value="Go back to Clients" onclick="location.href='@Url.Action("ManageClients", "Home")'" />
+
+

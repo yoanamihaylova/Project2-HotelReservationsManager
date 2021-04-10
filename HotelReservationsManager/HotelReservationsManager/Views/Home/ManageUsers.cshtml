@@ -1,0 +1,78 @@
+
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model HotelReservationsManager.Controllers.Models.UserDashBoardViewModel
+
+@{ ViewData["Title"] = "Users"; }
+
+<p>
+    <a asp-action="CreateUser" asp-controller="Home">Create New</a>
+</p>
+
+<form asp-action="ManageUsers" asp-controller="Home">
+    <div class="form-group">
+        <label asp-for="usernameFilter" class="control-label"></label>
+        <input asp-for="usernameFilter" class="form-control" />
+        <label asp-for="firstNameFilter" class="control-label"></label>
+        <input asp-for="firstNameFilter" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Apply filters" class="btn btn-primary" />
+    </div>
+</form>
+<br></br>
+
+<table>
+    <tr>
+        <th>
+            id
+        </th>
+        <th>
+            Username
+        </th>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+    <tr>
+        <td>
+            @item.id
+        </td>
+        <td>
+            @item.username
+        </td>
+        <td>
+            @item.firstName
+        </td>
+        <td>
+            @item.thirdName
+        </td>
+        @if (HotelReservationsManager.Controllers.HomeController.loggedUser.isAdmin == false) continue;
+        <td>
+            <a asp-action="EditUser" asp-controller="Home" asp-route-id="@item.id">Edit</a> |
+            <a asp-action="deleteUser" asp-controller="Home" asp-route-id="@item.id">Delete</a>
+        </td>
+    </tr>
+    }
+    <ul class="pagination">
+        @for (var i = 1; i <= Model.Pager.PagesCount; i++)
+        {
+<li class="page-item @(i == Model.Pager.CurrentPage ? "active" : "")">
+    <a asp-route-Pager.CurrentPage="@i" class="page-link">@i</a>
+</li>}
+    </ul>
+</table>
+
+<br> </br>
+<input type="button" value="Go back to the Dashboard" onclick="location.href='@Url.Action("Dashboard", "Home")'" />

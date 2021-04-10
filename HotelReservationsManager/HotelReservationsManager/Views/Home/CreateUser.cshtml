@@ -1,0 +1,72 @@
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using HotelReservationsManager;
+@using HotelReservationsManager.Controllers;
+@using HotelReservationsManager.Controllers.Models;
+
+@model UserDashboardRegulatedViewModel
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="username" class="control-label"></label>
+                <input asp-for="username" class="form-control" />
+                <span asp-validation-for="username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EGN" class="control-label"></label>
+                <input asp-for="EGN" class="form-control" />
+                <span asp-validation-for="EGN" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="isAdmin" class="control-label"></label>
+                <input asp-for="isAdmin" class="form-control" />
+                <span asp-validation-for="isAdmin" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="isActive" class="control-label"></label>
+                <input asp-for="isActive" class="form-control" />
+                <span asp-validation-for="isActive" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="phoneNumber" class="control-label"></label>
+                <input asp-for="phoneNumber" class="form-control" />
+                <span asp-validation-for="phoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="firstName" class="control-label"></label>
+                <input asp-for="firstName" class="form-control" />
+                <span asp-validation-for="firstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="secondName" class="control-label"></label>
+                <input asp-for="secondName" class="form-control" />
+                <span asp-validation-for="secondName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="thirdName" class="control-label"></label>
+                <input asp-for="thirdName" class="form-control" />
+                <span asp-validation-for="thirdName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="recruitmentDate" class="control-label"></label>
+                <input asp-for="recruitmentDate" class="form-control" />
+                <span asp-validation-for="recruitmentDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="dismisalDate" class="control-label"></label>
+                <input asp-for="dismisalDate" class="form-control" />
+                <span asp-validation-for="dismisalDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
