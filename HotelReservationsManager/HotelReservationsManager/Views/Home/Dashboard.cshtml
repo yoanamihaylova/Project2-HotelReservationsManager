@@ -12,19 +12,18 @@
 
 <h1> Welcome, @HomeController.loggedUser.username <h1>
 
-@if (HomeController.loggedUser.isAdmin == true)
-{
-    <a asp-action="ManageUsers" asp-controller="Home">Users</a>
+    @if (HomeController.loggedUser.isAdmin == true)
+    {
+        <a asp-action="ManageUsers" asp-controller="Home">Users</a>
+        <br><a asp-action="SeeReservations" asp-controller="Home">Reservations</a>
+    }
+    <br><a asp-action="ManageRooms" asp-controller="Home">Rooms</a>
     <br><a asp-action="ManageClients" asp-controller="Home">Clients</a>
-    <br><a asp-action="SeeReservations" asp-controller="Home">Reservations</a>
-}
-<br><a asp-action="ManageRooms" asp-controller="Home">Rooms</a>
-    
 
-<br> </br>
-<a asp-action="MakeReservation1" asp-controller="Home"> Make a reservation </a>
+    <br> </br>
+    <a asp-action="MakeReservation1" asp-controller="Home"> Make a reservation </a>
 
 
-<br> </br>
-<input type="button" value="Logout" onclick="location.href='@Url.Action("logout", "Home")'" />
+    <br> </br>
+    <input type="button" value="Logout" onclick="location.href='@Url.Action("logout", "Home")'" />
 

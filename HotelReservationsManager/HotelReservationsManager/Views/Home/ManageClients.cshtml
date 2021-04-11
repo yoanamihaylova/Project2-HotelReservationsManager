@@ -68,8 +68,7 @@
             <td>
                 @item.isAdult
             </td>
-            @if (HotelReservationsManager.Controllers.HomeController.loggedUser.isAdmin == false) continue;
-            <td>
+                       <td>
                 <a asp-action="EditClient" asp-controller="Home" asp-route-id="@item.id">Edit</a> |
                 <a asp-action="DeleteClient" asp-controller="Home" asp-route-id="@item.id">Delete</a> | 
                 <a asp-action="GetClientReservations" asp-controller="Home" asp-route-clientId="@item.id">See past reservations</a>

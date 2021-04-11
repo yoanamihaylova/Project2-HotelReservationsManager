@@ -7,14 +7,14 @@
 
 <a asp-action="ManageRooms" asp-controller="Home">See rooms</a>
 
-@if(Model.errorMessage!="")
+@if (Model.errorMessage != "")
 {
     <br><p>@Model.errorMessage</p>
 }
 
 <div class="row">
-    <div class="col-md-4" id="pedal">
-        <form asp-action="MakeReservation2" class="pedal">
+    <div class="col-md-4" id="id1">
+        <form asp-action="MakeReservation2" class="id1">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="roomNumber" class="control-label"></label>
@@ -42,7 +42,7 @@
                 <span asp-validation-for="allInclusive" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input asp-for="clientsCnt" type = "hidden" class="form-control" />
+                <input asp-for="clientsCnt" type="hidden" class="form-control" />
             </div>
 
             <br> </br>
@@ -70,9 +70,11 @@
     </div>
 </div>
 
+
+<!--
+
 <a asp-action="Dashboard" asp-controller="Home"> Go back to the Dashboard </a>
-
-
-
-
+    -->
+</br>
+<input type="button" value="Go back to the Dashboard" onclick="location.href='@Url.Action("Dashboard", "Home")'" />
 

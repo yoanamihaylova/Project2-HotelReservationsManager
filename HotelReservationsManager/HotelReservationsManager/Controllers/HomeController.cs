@@ -13,7 +13,7 @@ namespace HotelReservationsManager.Controllers
     public class HomeController : Controller
     {
         private DatabaseController dc;
-        private const int PageSize = 10;
+        private const int PageSize = 5;
         private readonly ILogger<HomeController> _logger;
 
         public static User loggedUser = null;
@@ -103,7 +103,7 @@ namespace HotelReservationsManager.Controllers
         public IActionResult ManageClients(ClientDashboardViewModel model)
         {
             if (loggedUser == null) return NotFound();
-            if (loggedUser.isAdmin == false) return NotFound();
+            //if (loggedUser.isAdmin == false) return NotFound();
 
             model.Pager ??= new PagerViewModel();
             model.Pager.CurrentPage = model.Pager.CurrentPage <= 0 ? 1 : model.Pager.CurrentPage;
@@ -146,7 +146,7 @@ namespace HotelReservationsManager.Controllers
         public IActionResult GetClientReservations(ClientReservationsDashboardViewModel model, int clientId)
         {
             if (loggedUser == null) return NotFound();
-            if (loggedUser.isAdmin == false) return NotFound();
+            //if (loggedUser.isAdmin == false) return NotFound();
 
             model.Pager ??= new PagerViewModel();
             model.client = dc.getAllClients().FirstOrDefault(c => c.id == clientId);
@@ -193,7 +193,7 @@ namespace HotelReservationsManager.Controllers
         public IActionResult CreateClient()
         {
             if (loggedUser == null) return NotFound();
-            if (loggedUser.isAdmin == false) return NotFound();
+           // if (loggedUser.isAdmin == false) return NotFound();
 
             ClientDashboardRegulatedViewModel model = new ClientDashboardRegulatedViewModel();
             return View(model);
@@ -238,7 +238,7 @@ namespace HotelReservationsManager.Controllers
         public IActionResult CreateClient(ClientDashboardRegulatedViewModel model)
         {
             if (loggedUser == null) return NotFound();
-            if (loggedUser.isAdmin == false) return NotFound();
+          //  if (loggedUser.isAdmin == false) return NotFound();
 
             if (ModelState.IsValid)
             {
@@ -334,7 +334,7 @@ namespace HotelReservationsManager.Controllers
         public IActionResult DeleteClient(int id)
         {
             if (loggedUser == null) return NotFound();
-            if (loggedUser.isAdmin == false) return NotFound();
+           // if (loggedUser.isAdmin == false) return NotFound();
 
             List<ReservationClientLinker> linkers = dc.getAllLinkers();
             linkers = linkers.Where(l => l.client.id == id).ToList();
